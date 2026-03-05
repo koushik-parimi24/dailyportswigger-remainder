@@ -24,7 +24,7 @@ export async function sendReminderEmail(
           <div style="background: #f8f9ff; border-left: 4px solid #4361ee; padding: 18px 20px; margin: 0 0 20px; border-radius: 0 8px 8px 0;">
             <p style="color: #1a1a2e; margin: 0; font-size: 15px; line-height: 1.7;">${message}</p>
           </div>
-          <p style="color: #64748b; font-size: 13px; margin: 0; line-height: 1.6;">Please make sure to be prepared and arrive on time.</p>
+          <p style="color: #64748b; font-size: 13px; margin: 0; line-height: 1.6;">made by koushik(bingenow.online)</p>
         </div>
         <!-- Footer -->
         <div style="background: #f8fafc; padding: 16px 24px; text-align: center; border-top: 1px solid #e2e8f0;">
